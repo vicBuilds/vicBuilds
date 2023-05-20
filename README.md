@@ -3,9 +3,10 @@
 <img align='right' width='400' src='https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif'>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vicbuilds&label=Profile%20views&color=0e75b6&style=flat" alt="vicbuilds" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vicbuilds&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="vicbuilds" /> </p>
 
 - 📫 How to reach me **https://victor-dark.netlify.app/**
+- 📩 Drop a mail **victor.mitra15@gmail.com**   
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
